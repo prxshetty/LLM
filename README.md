@@ -6,6 +6,7 @@ This repo contains PyTorch code to implement a GPT language model from scratch u
 
 This implementation includes:
 
+- CUDA implementation
 - Token and position embeddings
 - Multi-head self attention layers
 - Feedforward layers  (LM, ReLU, LM)
