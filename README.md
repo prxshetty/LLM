@@ -32,7 +32,7 @@ The trained model can be used to generate text by sampling tokens autoregressive
 
 - Python 3.x 
 - PyTorch
-- cuda
+- cuda (Nvidia Graphics Required)
 - numpy
 - jupyter notebook 
 
