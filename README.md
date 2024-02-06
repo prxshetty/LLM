@@ -16,7 +16,7 @@ This implementation includes:
 
 The model is trained to predict the next token (character) in a sequence, using a cross-entropy loss function.
 
-## Getting Started
+## Introduction
 
 The main model code is contained in `gpt.ipynb`. To train the model:
 
