@@ -38,4 +38,4 @@ The trained model can be used to generate text by sampling tokens autoregressive
 
 ## References
 
-The GPT model architecture is based on the original Paper, Analysis of Large Language Models and FreeCodeCamp
+The GPT model architecture is based on the original Paper, Analysis of LLM, Survey of LLM and FreeCodeCamp
