@@ -18,7 +18,7 @@ The model is trained to predict the next token (character) in a sequence, using 
 
 ## Introduction
 
-The main model code is contained in `gpt.ipynb`. To train the model:
+The main model code is contained in `gpt-v1.ipynb`. To train the model:
 
 1. Specify hyperparameters like number of layers, heads, embedding size etc.(Depends on GPU)
 2. Load and preprocess text data
@@ -32,10 +32,10 @@ The trained model can be used to generate text by sampling tokens autoregressive
 
 - Python 3.x 
 - PyTorch
-- cuda (Nvidia Graphics Required)
+- cuda (Graphics Required)
 - numpy
 - jupyter notebook 
 
 ## References
 
-The GPT model architecture is based on the original Paper, Analysis of Large Language Models and FreeCodeCamp
+The GPT model architecture is based on the original Paper, Analysis of LLM, Survey of LLM and FreeCodeCamp
