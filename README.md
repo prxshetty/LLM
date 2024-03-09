@@ -36,6 +36,9 @@ The trained model can be used to generate text by sampling tokens autoregressive
 - numpy
 - jupyter notebook 
 
+## Data
+
+- The model is trained on OpenWebText which is around 40GB in size after unzip. To reduce the computational workload we have sorted and added a unique character list to be used in the model training and validation in the data-extract.py.
 ## References
 
 The GPT model architecture is based on the original Paper, Analysis of LLM, Survey of LLM and FreeCodeCamp
